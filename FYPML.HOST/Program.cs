@@ -16,7 +16,7 @@ namespace FYPML.HOST
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SentimenAnalysisForm());
+            Application.Run(new SalesForecastingForm());
         }
     }
 }
